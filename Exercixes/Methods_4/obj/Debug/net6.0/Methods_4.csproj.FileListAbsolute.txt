@@ -1,0 +1,15 @@
+C:\Development\PatikaProjects\Exercixes\Methods_4\bin\Debug\net6.0\Methods_4.exe
+C:\Development\PatikaProjects\Exercixes\Methods_4\bin\Debug\net6.0\Methods_4.deps.json
+C:\Development\PatikaProjects\Exercixes\Methods_4\bin\Debug\net6.0\Methods_4.runtimeconfig.json
+C:\Development\PatikaProjects\Exercixes\Methods_4\bin\Debug\net6.0\Methods_4.dll
+C:\Development\PatikaProjects\Exercixes\Methods_4\bin\Debug\net6.0\Methods_4.pdb
+C:\Development\PatikaProjects\Exercixes\Methods_4\obj\Debug\net6.0\Methods_4.csproj.AssemblyReference.cache
+C:\Development\PatikaProjects\Exercixes\Methods_4\obj\Debug\net6.0\Methods_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\PatikaProjects\Exercixes\Methods_4\obj\Debug\net6.0\Methods_4.AssemblyInfoInputs.cache
+C:\Development\PatikaProjects\Exercixes\Methods_4\obj\Debug\net6.0\Methods_4.AssemblyInfo.cs
+C:\Development\PatikaProjects\Exercixes\Methods_4\obj\Debug\net6.0\Methods_4.csproj.CoreCompileInputs.cache
+C:\Development\PatikaProjects\Exercixes\Methods_4\obj\Debug\net6.0\Methods_4.dll
+C:\Development\PatikaProjects\Exercixes\Methods_4\obj\Debug\net6.0\refint\Methods_4.dll
+C:\Development\PatikaProjects\Exercixes\Methods_4\obj\Debug\net6.0\Methods_4.pdb
+C:\Development\PatikaProjects\Exercixes\Methods_4\obj\Debug\net6.0\Methods_4.genruntimeconfig.cache
+C:\Development\PatikaProjects\Exercixes\Methods_4\obj\Debug\net6.0\ref\Methods_4.dll
